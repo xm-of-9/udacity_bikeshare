@@ -3,6 +3,8 @@
 # https://www.datacamp.com/community/tutorials/pandas-read-csv
 # https://www.w3schools.com/python/python_try_except.asp
 
+# another useful resource for helping me with python was: https://medium.com/fintechexplained/everything-about-python-from-beginner-to-advance-level-227d52ef32d2
+
 import time
 import pandas as pd
 import numpy as np
