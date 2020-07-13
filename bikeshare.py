@@ -242,3 +242,5 @@ def main():
 
 if __name__ == "__main__":
 	main()
+	
+# Display data function could also be a filter right in the beginning of the code
